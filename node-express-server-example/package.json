@@ -1,0 +1,14 @@
+{
+  "name": "node-express-server",
+  "version": "1.0.0",
+  "description": "Node.js express server example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tejisav Brar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
